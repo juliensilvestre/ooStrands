@@ -1,17 +1,11 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+## what is ooStrands?
+**ooStrands** is a maya/arnold plugin developped by julien Silvestre. The plug-in can be downloaded here : [www.octoplug.xyz](www.octoplug.xyz)
 
-## Commands
+## Release Notes
+- v0.1 : first version
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
 
-## Project layout
+## installation
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## compatibility

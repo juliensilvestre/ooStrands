@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: ooStrands Documentation
+nav:
+  - Introduction: index.md
+  - Sampler: sampler.md
+  - Strands: strands.md
+theme: readthedocs
